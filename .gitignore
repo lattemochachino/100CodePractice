@@ -1,5 +1,6 @@
 .DS_Store
 secrets.txt
+World-Game
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
