@@ -1,5 +1,6 @@
 .DS_Store
 secrets.txt
+Wordle-Game
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
